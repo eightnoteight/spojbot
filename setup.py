@@ -13,8 +13,5 @@ setup(
     packages=[
         'spojbot'
     ],
-    platforms=[
-        'linux'
-    ],
     license='apache',
     zip_safe=False)
