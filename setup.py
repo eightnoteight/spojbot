@@ -17,5 +17,5 @@ setup(
     packages=[
         'spojbot'
     ],
-    license='apache',
-    zip_safe=False)
+    license='apache'
+)
